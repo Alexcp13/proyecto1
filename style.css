@@ -7,7 +7,11 @@
     --pading: 25px 120px;
 }
 
-
+html,
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
 
 
 html {
@@ -17,6 +21,7 @@ html {
 
 body {
     margin: 0;
+
 }
 
 
